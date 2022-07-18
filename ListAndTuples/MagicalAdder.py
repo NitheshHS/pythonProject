@@ -1,0 +1,7 @@
+numbers = input("Enter 3 numbers")
+print(numbers)
+lists = list(numbers.split(", "))
+a = int(lists[0])
+b = int(lists[1])
+c = int(lists[2])
+print(a+b-c)
