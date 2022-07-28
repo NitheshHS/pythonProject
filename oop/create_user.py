@@ -2,7 +2,7 @@ from user import Person
 
 person1 = Person('Nithesh', 24, 'Bengaluru', [9876543210])
 print(person1)
-person1.phone_number.append(8310342653)
+person1.phone_number.append(7788992211)
 print('*' * 50)
 print(person1)
 # update user name
